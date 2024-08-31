@@ -2,7 +2,7 @@ from tkinter import Tk, Button, Entry
 
 # Configuración ventana principal
 root = Tk()
-root.title(***)
+root.title("Calculadora")
 root.resizable(0,0)
 root.geometry(***)
 
